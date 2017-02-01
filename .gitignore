@@ -1,0 +1,3 @@
+examples/.apikeys
+examples/.oauth
+examples/data/*.json
